@@ -1,0 +1,102 @@
+body, html {
+	margin: 0px;
+}
+
+.navbar {
+	position: fixed;
+	background: #f8f9fa;
+	height: 70px;
+	width: 100%;
+	padding-left: 20px;
+	padding-top: 5px;
+}
+.logo {
+	float: left;
+}
+.nav-links {
+	margin-left: 100px;
+	float: left;
+	line-height: 70px;
+}
+
+.nav-links a{
+	text-decoration: none;
+	padding-right: 45px;
+	font-size: 19px;
+	font-family: helvetica;
+	color:gray;
+}
+.nav-links a:hover {
+	color:black;
+}
+.first-image {
+	width:100%;
+	height: 500px;
+}
+
+.texto1 {
+	text-align: center;
+	font-family: helvetica;
+	margin-top:15px;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.box-group {
+	padding-top: 50px;
+	width: 100%;
+	height: 425px;
+}
+
+.box-style{
+	width: 28%;
+	margin-left: 3%;
+	margin-right: 3.5%;
+	height: 425px;
+	background: black;
+	float: left;
+}
+
+.box-last {
+	width: 28%;
+	height: 425px;
+	background: black;
+	float: left;
+}
+
+.contact-us {
+	height: 350px;
+	width: 100%;
+	background-color: lightblue;
+}
+
+.texto2 {
+	height: 470px;
+	width: 100%;
+	background-color: #efefef;
+}
+
+.txt {
+	float: left;
+	width: 50%;
+	padding-top: 90px;
+	padding-left: 110px;
+	font-size: 18px;
+}
+
+.video {
+	padding-top: 50px;
+	float: right;
+	height: 470px;
+	width: 40%;
+}
+.footer{
+	position: fixed;
+	width: 100%;
+	background-color: #1e2136;
+	height: 40px;
+	bottom: 0px;
+	left: 0px;
+	text-align: center;
+	color:white;
+}
