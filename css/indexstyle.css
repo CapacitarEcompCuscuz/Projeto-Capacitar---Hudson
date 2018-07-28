@@ -1,34 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Work+Sans:600');
 body, html {
 	margin: 0px;
+	font-family: sans-serif;
 }
 
-.navbar {
-	position: fixed;
-	background: #f8f9fa;
-	height: 70px;
-	width: 100%;
-	padding-left: 20px;
-	padding-top: 5px;
-}
-.logo {
-	float: left;
-}
-.nav-links {
-	margin-left: 100px;
-	float: left;
-	line-height: 70px;
-}
-
-.nav-links a{
-	text-decoration: none;
-	padding-right: 45px;
-	font-size: 19px;
-	font-family: helvetica;
-	color:gray;
-}
-.nav-links a:hover {
-	color:black;
-}
 .first-image {
 	width:100%;
 	height: 500px;
@@ -36,7 +11,6 @@ body, html {
 
 .texto1 {
 	text-align: center;
-	font-family: helvetica;
 	margin-top:15px;
 	padding-left: 40px;
 	padding-right: 40px;
@@ -50,24 +24,84 @@ body, html {
 
 .box-style{
 	width: 28%;
-	margin-left: 3%;
-	margin-right: 3.5%;
+	margin-left: 5%;
+	margin-right: 3%;
 	height: 425px;
-	background: black;
 	float: left;
+	border: 1px solid #000;
+	box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.5);
 }
+.box-style-2 {
+	width: 28%;
+	margin-right: 3%;
+	height: 425px;
+	float: left;
+	border: 1px solid #000;
+	box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.5);
+}
+
+.box-style:hover{ 
+	box-shadow: 5px 20px 20px 0px grey; 
+}
+
+.box-style-2:hover{ 
+	box-shadow: 5px 20px 20px 0px grey; 
+}
+.box-img img {
+	width: 100%;
+	height: 270px;
+
+}
+
+.box-txt {
+	text-align: center;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.box-txt h2:hover {
+    color: #25baa9;
+	text-shadow: 1px 1px grey;
+}
+
 
 .box-last {
 	width: 28%;
 	height: 425px;
-	background: black;
 	float: left;
+	border: 1px solid #000;
+	box-shadow: 0 1px 3px 1px rgba(0, 0, 0, 0.5);
 }
 
+.box-last:hover{ 
+	box-shadow: 5px 20px 20px 0px grey; 
+}
+
+.contact-box {
+	background-color: #1e2136;
+}
 .contact-us {
+	margin-top: 30px;
 	height: 350px;
 	width: 100%;
-	background-color: lightblue;
+	background-image: url(../images/serv2.jpg);
+}
+
+.contact-txt {
+	text-align: center;
+	padding-top: 50px;
+}
+.contact-txt h2 {
+	color: #25baa9;
+	font-size: 2em;
+}
+.contact-txt h1 {
+	color: #cec075;
+}
+
+.contact-txt h3 {
+	color: white;
+	font-size: 2em;
 }
 
 .texto2 {
@@ -90,13 +124,31 @@ body, html {
 	height: 470px;
 	width: 40%;
 }
-.footer{
-	position: fixed;
-	width: 100%;
-	background-color: #1e2136;
-	height: 40px;
-	bottom: 0px;
-	left: 0px;
-	text-align: center;
-	color:white;
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    -webkit-transition-duration: 0.1s; /* Safari */
+    transition-duration: 0.1s;
+    cursor: pointer;
+    font-size: 26px;
+    border-radius: 12px;
+}
+
+.button1 {
+    background-color:  #25baa9; 
+    color: white; 
+    border: 2px solid #4CAF50;
+}
+
+.button1:hover {
+    background-color: #25baa91a;
+	border: 1px #25baa9 solid;
 }

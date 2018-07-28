@@ -8,9 +8,11 @@
 	left: 0px;
 	text-align: center;
 	color:white;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-bottom: 2px;
 }
     </style>
 
     <div class="footer">
-    	<p>Copyright Capacitar Poli Junior Engenharia</p>
+    	<p> @Copyright Capacitar Poli Junior Engenharia</p>
     </div>
