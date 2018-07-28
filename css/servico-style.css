@@ -2,6 +2,9 @@ body, html {
 	margin: 0px;
 	background: linear-gradient(white, #4677be9c);
 }
+.servico-top {
+	text-align: center;
+}
 .box{
 	height:430px;
 	width: 100%;
@@ -12,7 +15,7 @@ body, html {
 }
 .box1{
 	margin-top: 110px;
-	padding-top: 40px;
+	padding-top: 5px;
 	padding-left: 40px;
 	height:250px;
 	width: 40%;
@@ -31,7 +34,7 @@ body, html {
 
 .box2{
 	margin-top: 110px;
-	padding-top: 40px;
+	padding-top: 5px;
 	padding-left: 40px;
 	height:250px;
 	width: 40%;
@@ -43,8 +46,8 @@ body, html {
 }
 .txt-box1{
 	float: right;
-	width: 200px;
-	text-align: center;
-	padding-left: 20px;
+	width: 300px;
+	text-align: justify;
+	padding-left: 0px;
 	padding-right: 60px;
 }
