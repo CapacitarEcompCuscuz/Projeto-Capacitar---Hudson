@@ -15,27 +15,27 @@
 		<div class="box1">
 			
 			<div class="img-box">
-			<img widht="250px" height="200px" src="images/serv1.jpg">
-            </div>
+				<img widht="250px" height="200px" src="images/serv1.jpg">
+			</div>
 			
 			<div class="txt-box1">
-			<h2>Serviço 1</h2>
-			<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
-			</p>
-		</div>
-		
+				<h2>Serviço 1</h2>
+				<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
+				</p>
+			</div>
+			
 		</div>
 
 		<div class="box2">
 			
 			<div class="img-box">
-			<img widht="250px" height="200px" src="images/serv1.jpg">
-            </div>
+				<img widht="250px" height="200px" src="images/serv1.jpg">
+			</div>
 			<div class="txt-box1">
-			<h2>Serviço 2</h2>
-			<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
-			</p>
-		</div>
+				<h2>Serviço 2</h2>
+				<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
+				</p>
+			</div>
 		</div>
 	</div>
 
@@ -44,27 +44,27 @@
 		<div class="box1">
 			
 			<div class="img-box">
-			<img widht="250px" height="200px" src="images/serv1.jpg">
-            </div>
+				<img widht="250px" height="200px" src="images/serv1.jpg">
+			</div>
 			
 			<div class="txt-box1">
-			<h2>Serviço 3</h2>
-			<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
-			</p>
-		</div>
-		
+				<h2>Serviço 3</h2>
+				<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
+				</p>
+			</div>
+			
 		</div>
 
 		<div class="box2">
 			
 			<div class="img-box">
-			<img widht="250px" height="200px" src="images/serv1.jpg">
-            </div>
+				<img widht="250px" height="200px" src="images/serv1.jpg">
+			</div>
 			<div class="txt-box1">
-			<h2>Serviço 4</h2>
-			<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
-			</p>
-		</div>
+				<h2>Serviço 4</h2>
+				<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
+				</p>
+			</div>
 		</div>
 	</div>
 
@@ -73,34 +73,34 @@
 		<div class="box1">
 			
 			<div class="img-box">
-			<img widht="250px" height="200px" src="images/serv1.jpg">
-            </div>
+				<img widht="250px" height="200px" src="images/serv1.jpg">
+			</div>
 			
 			<div class="txt-box1">
-			<h2>Serviço 5</h2>
-			<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
-			</p>
-		</div>
-		
+				<h2>Serviço 5</h2>
+				<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
+				</p>
+			</div>
+			
 		</div>
 
 		<div class="box2">
 			
 			<div class="img-box">
-			<img widht="250px" height="200px" src="images/serv1.jpg">
-            </div>
+				<img widht="250px" height="200px" src="images/serv1.jpg">
+			</div>
 			<div class="txt-box1">
-			<h2>Serviço 6</h2>
-			<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
-			</p>
-		</div>
+				<h2>Serviço 6</h2>
+				<p>Do reprehenderit laboris ut ullamco aliquip cupidatat pariatur deserunt ullamco et ut officia duis excepteur. Officia veniam enim excepteur magna 
+				</p>
+			</div>
 		</div>
 	</div>
 
 
 	<!-- footer -->
 
-	 <?php include 'inc/footer.php';?>
+	<?php include 'inc/footer.php';?>
 
 </body>
 </html>

@@ -15,37 +15,37 @@
 	<div class="corpo">
 		<div class="contact-form">
 			<div class="container">
-  <form action="action_page.php">
+				<form action="action_page.php">
 
-    <label for="fname">Seu nome</label>
-    <input type="text" id="fname" name="firstname" placeholder="Digite aqui seu nome..">
+					<label for="fname">Seu nome</label>
+					<input type="text" id="fname" name="firstname" placeholder="Digite aqui seu nome..">
 
-    <label for="lname">Email</label>
-    <input type="text" id="lname" name="lastname" placeholder="Digite aqui seu email..">
+					<label for="lname">Email</label>
+					<input type="text" id="lname" name="lastname" placeholder="Digite aqui seu email..">
 
-    <label for="country">Como nos conheceu?</label>
-    <select id="country" name="country">
-      <option value="australia">Facebook</option>
-      <option value="canada">Instagran</option>
-      <option value="usa">Google</option>
-      <option value="usa">TV</option>
-      <option value="usa">Radio</option>
-    </select>
+					<label for="country">Como nos conheceu?</label>
+					<select id="country" name="country">
+						<option value="australia">Facebook</option>
+						<option value="canada">Instagran</option>
+						<option value="usa">Google</option>
+						<option value="usa">TV</option>
+						<option value="usa">Radio</option>
+					</select>
 
-    <label for="subject">Texto</label>
-    <textarea id="subject" name="subject" placeholder="Escreva algo.." style="height:200px"></textarea>
+					<label for="subject">Texto</label>
+					<textarea id="subject" name="subject" placeholder="Escreva algo.." style="height:200px"></textarea>
 
-    <input type="submit" value="Enviar">
+					<input type="submit" value="Enviar">
 
-  </form>
-</div>
+				</form>
+			</div>
 		</div>
 
 		<div class="dados">
 			<h1>Contate-nos!</h1>
-            <br>
-            <i class="fa fa-phone"></i> Telefone: 1234-5678
-            <p><i class="fa fa-envelope-open"></i> Email: email@gmail.com</p>
+			<br>
+			<i class="fa fa-phone"></i> Telefone: 1234-5678
+			<p><i class="fa fa-envelope-open"></i> Email: email@gmail.com</p>
 			
 		</div>
 
@@ -56,7 +56,7 @@
 
 	<!-- footer -->
 
-	 <?php include 'inc/footer.php';?>
+	<?php include 'inc/footer.php';?>
 
 </body>
 </html>

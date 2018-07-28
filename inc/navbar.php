@@ -77,18 +77,18 @@
 </style>
 
 <div class="nav">
-<div class="navbar">
-  <div class="logo">
-			<img width="auto" height="65px" src="images/logo.png">
-  </div>
-  <a href="index.php">Home</a>
-  <div class="dropdown">
-    <button class="dropbtn">Serviços
-    </button>
-    <div class="dropdown-content">
-      <a href="servicos.php">Serviço 1</a>
-      <a href="servicos.php">Serviço 2</a>
-    </div>
+    <div class="navbar">
+      <div class="logo">
+         <img width="auto" height="65px" src="images/logo.png">
+     </div>
+     <a href="index.php">Home</a>
+     <div class="dropdown">
+        <button class="dropbtn">Serviços
+        </button>
+        <div class="dropdown-content">
+          <a href="servicos.php">Serviço 1</a>
+          <a href="servicos.php">Serviço 2</a>
+      </div>
   </div> 
   <a href="sobre.php">Sobre Nós</a>
   <a href="contato.php">Contato</a>
